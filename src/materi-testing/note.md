@@ -1,0 +1,5 @@
+- Integration testing adalah gabungan dari unit-unit testing
+- test() itu sama dengan halnya it() dalam describe
+- search type = byText, byLabelText, byPlaceholderText, byAltText, byDisplayValue, byRole ... (masuk ke dalam materi selecting element)
+- search variant = getBy, queryBy, findBy (masuk ke dalam materi selecting element)
+- fireEvent = userEvent (melakukan suatu aksi)
